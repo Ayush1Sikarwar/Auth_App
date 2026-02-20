@@ -15,7 +15,7 @@ hashing.
 
 The application is deployed on Render:
 
-🔗 
+🔗 https://auth-app-ysc4.onrender.com
 
 ------------------------------------------------------------------------
 
